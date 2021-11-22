@@ -1,0 +1,19 @@
+
+.button {
+    -fx-text-fill: white;
+    -fx-font-family: "Palatino Linotype";
+    -fx-font-weight: bold;
+    -fx-background-color: purple;
+     -fx-border-radius: 20;
+      -fx-background-radius: 22;
+    
+    
+}
+
+
+
+.button:hover {
+    -fx-background-color: white;
+    -fx-text-fill: purple;
+    -fx-border-color: purple;
+}
